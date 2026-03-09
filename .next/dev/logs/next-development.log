@@ -1,0 +1,8 @@
+[00:00:03.496] Server  LOG     ✓ Ready in 2.4s
+[00:00:11.156] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:46.048] Browser ERROR   Error inlining remote css file {}
+[00:00:46.411] Browser ERROR   Error while reading CSS rules from https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=IBM+Plex+Mono:wght@400;500;600&family=Noto+Naskh+Arabic:wght@400;700&display=swap {}
+[00:02:30.276] Server  LOG     ✓ Compiled in 170ms
+[00:02:34.436] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:44.652] Server  LOG     ✓ Compiled in 68ms
+[00:02:51.238] Server  LOG     ✓ Compiled in 63ms
