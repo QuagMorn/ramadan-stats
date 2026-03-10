@@ -91,7 +91,7 @@ const PnlCard = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2
             position: 'relative',
             background: '#0a0f1a',
             boxShadow: '0 30px 80px rgba(0,0,0,0.7), 0 0 0 1px rgba(255,255,255,0.06)',
-            fontFamily: "'Syne', sans-serif"
+            fontFamily: "'Plus Jakarta Sans', system-ui, sans-serif"
         },
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$ramadan$2d$stats$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
