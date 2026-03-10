@@ -25,7 +25,7 @@ const defaultStats: StatsData = {
   tadarus: 15,
   tahajjud: 7,
   charity: 4,
-  username: 'Al-Birruni',
+  username: 'Al-Biruni',
   year: '1447 H / 2026 M',
   accentColor: '#C9A84C',
   template: '1',
